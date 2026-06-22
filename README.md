@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student at College of Engineering Chengannur
 
-🔐 Aspiring Cybersecurity Engineer
+ 🔐 Cybersecurity & Software Engineering Student
 
 🌱 Currently Learning:
 - Networking
