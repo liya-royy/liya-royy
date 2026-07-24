@@ -26,6 +26,7 @@ https://github.com/liya-royy
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liya-royy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liya-royy&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-ten-mocha-70.vercel.app/api?username=liya-royy&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-ten-mocha-70.vercel.app/api/top-langs/?username=liya-royy&layout=compact&theme=tokyonight" height="180"/>
+</p>
